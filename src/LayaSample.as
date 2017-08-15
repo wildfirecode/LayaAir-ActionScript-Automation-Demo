@@ -4,7 +4,7 @@
 		public function LayaSample() {
 			//初始化引擎
 			Laya.init(1136, 640);
-			trace('hello world+.');
+			trace('hello world.');
 		}		
 	}
 }

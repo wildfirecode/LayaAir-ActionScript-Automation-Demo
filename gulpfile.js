@@ -16,7 +16,7 @@ gulp.task('livereload', [], function () {
 
 gulp.task('compile', [], function () {
     gulp.watch('./src/**/*.as', (file) => {
-        console.log(file.path);
+        console.log(file);
         var child = childProcess.spawn(layajs, [argStr]);
         var t1 = new Date().getTime();
         console.log('compile start...');

@@ -13,7 +13,7 @@ Project configuration:D:\blog-demo\LayaAir-ActionScript-Automation-Demo\.actionS
 1,0.00,D:/blog-demo/LayaAir-ActionScript-Automation-Demo/libs/laya/src,0,Collect
 1,2.00,,0,read class message
 1,89.88,,0,Disable Flash3D D:/blog-demo/LayaAir-ActionScript-Automation-Demo/src/LayaSample.as
-12,89.88,D:/blog-demo/LayaAir-ActionScript-Automation-Demo/bin/h5/LayaSample.max.js,450044,
+12,89.88,D:/blog-demo/LayaAir-ActionScript-Automation-Demo/bin/h5/LayaSample.max.js,450043,
 11,89.88,D:/blog-demo/LayaAir-ActionScript-Automation-Demo/bin/h5/LayaSample.max.html,893,
 ******************************************************************************
 14,89.88,,0,

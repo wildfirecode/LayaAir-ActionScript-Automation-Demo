@@ -280,7 +280,7 @@ var Laya=window.Laya=(function(window,document){
 	var LayaSample=(function(){
 		function LayaSample(){
 			Laya.init(1136,640);
-			console.log('hello world+.');
+			console.log('hello world.');
 		}
 
 		__class(LayaSample,'LayaSample');
