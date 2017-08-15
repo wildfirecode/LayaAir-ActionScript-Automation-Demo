@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+.actionScriptProperties.lprj
+.laya/astool/debug.txt
